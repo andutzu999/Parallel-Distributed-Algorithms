@@ -1,4 +1,4 @@
-                                    Generare paralele de fractali folosind multimile Mandelbrot si Julia
+             Generare paralele de fractali folosind multimile Mandelbrot si Julia
 
         Prima data se citesc argumentele programului: fisierele de intrare si de iesire si 
     numarul de thread-uri. Apoi, are loc citirea datelor din fisierele Mandelbrot si Julia 
